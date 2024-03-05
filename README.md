@@ -21,9 +21,9 @@ In this web page, mobile and landline numbers informations can be found. The inp
 [Netlify link](https://benevolent-semifreddo-3aea59.netlify.app/)
 
 ## Images
-![Homepage](img1.png)
-![IP Information](img2.png)
-![Invalid IP](img3.png)
+![Homepage](img11.png)
+![Number's Information](img12.png)
+![Invalid Number](img13.png)
 
 
 
